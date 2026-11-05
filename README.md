@@ -17,16 +17,16 @@ I used the python product service for this lab
 
 ## Repositories
 
-Store Front: https://github.com/TylerTsang0047/store-front-L5
-Product Service: https://github.com/TylerTsang0047/product-service-python-L5
-Order Service: https://github.com/TylerTsang0047/order-service-L5
+- Store Front: https://github.com/TylerTsang0047/store-front-L5
+- Product Service: https://github.com/TylerTsang0047/product-service-python-L5
+- Order Service: https://github.com/TylerTsang0047/order-service-L5
 
 
 ## Docker hub 
 
-Store Front: https://hub.docker.com/repository/docker/tylertsang442/store-front/general
-Product Service: https://hub.docker.com/repository/docker/tylertsang442/product-service
-Order Service: https://hub.docker.com/repository/docker/tylertsang442/order-service/general
+- Store Front: https://hub.docker.com/repository/docker/tylertsang442/store-front/general
+- Product Service: https://hub.docker.com/repository/docker/tylertsang442/product-service
+- Order Service: https://hub.docker.com/repository/docker/tylertsang442/order-service/general
 
 
 
